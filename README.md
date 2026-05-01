@@ -1,1 +1,1 @@
-# luxor2
+# luxor
